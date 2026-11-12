@@ -2,14 +2,13 @@
 
 Landing page institucional da NaraTech Soluções em Tecnologia. Site estático: `index.html` + `assets/`, sem build.
 
-## Antes de publicar
+## Publicação
 
-- Trocar `55SEUNUMERO` pelo número do WhatsApp (formato `55DDDNUMERO`) nos links `wa.me`.
-- Preencher `[SEU WHATSAPP]` e `[SEU E-MAIL]` no rodapé.
+Hospedada na Vercel, com deploy automático a cada push na branch `main`. Domínio: naratech.com.br (DNS no Cloudflare, registros CNAME em modo "DNS only").
 
-## Publicar no GitHub Pages
+## Contato (links no site)
 
-Settings > Pages > Deploy from a branch > `main` / `(root)`.
+WhatsApp e e-mail ficam nos botões de chamada (`wa.me`) e no rodapé de `index.html`.
 
 ## Identidade
 
